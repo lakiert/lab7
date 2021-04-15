@@ -97,5 +97,11 @@ import numpy as np
 # c = np.arange(12).reshape(2, 6)
 #
 # print(a)
+# print("")
 # print(b)
+# print("")
 # print(c)
+# print("")
+# print(a.ravel())
+# print(b.ravel())
+# print(c.ravel())
